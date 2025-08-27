@@ -8,14 +8,16 @@
 - Fortalecer la enseñanza de la ingeniería mediante experiencias prácticas, simulaciones y análisis de sistemas reales.
 - Integrar teoría y práctica en el estudio de procesos termodinámicos, cinemáticos y dinámicos de vehículos y motores.
 - Impulsar la modernización pedagógica mediante el uso de sensores, adquisición de datos, simuladores y lógica de control.
+  
 🔍 Áreas de trabajo:
 - Modelado y simulación de motores (ciclos adiabáticos, politrópicos, procesos de admisión y escape).
 - Instrumentación experimental: sensores piezoeléctricos, acondicionadores de carga, sistemas de adquisición.
 - Automatización y control: programación de PLC, lógica ladder, pseudocódigo aplicado a bancos de ensayo.
 - Documentación técnica profesional: manuales, esquemas, tablas y recursos didácticos adaptados a distintos niveles.
+  
 🤝 Vinculación académica:
-El laboratorio colabora activamente con docentes, investigadores y estudiantes, promoviendo la transferencia de conocimiento entre áreas curriculares y fomentando el pensamiento crítico, el rigor técnico y la excelencia didáctica.
-
+El laboratorio colabora activamente con docentes, investigadores y estudiantes, promoviendo la transferencia de conocimiento entre áreas curriculares 
+y fomentando el pensamiento crítico, el rigor técnico y la excelencia didáctica.
 
 Here are some ideas to get you started:
 

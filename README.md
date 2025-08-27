@@ -1,6 +1,8 @@
 ## Laboratorio de Automotores FIE 👋
 
 <img width="1694" height="413" alt="AutoSolo" src="https://github.com/user-attachments/assets/7cf4abde-9678-4f21-8741-5404d0156a8b" />
+<img width="360" height="360" alt="AutoSolo3_circle" src="https://github.com/user-attachments/assets/38627ca5-195e-4675-b25b-05d910e9b540" />
+
 
 # 🛠️ Laboratorio de Automotores – FIE
 
@@ -21,15 +23,18 @@ desarrollan prácticas experimentales, y se promueve la investigación aplicada 
   
 ## 🤝 Vinculación Académica:
 El laboratorio colabora activamente con docentes, investigadores y estudiantes, promoviendo la transferencia de conocimiento entre áreas curriculares 
-y fomentando el pensamiento crítico, el rigor técnico y la excelencia didáctica.
+y fomentando el pensamiento crítico, el rigor técnico y la excelencia académica y didáctica.
 
-## 📍 Ubicación y contacto:
+## 📍 Ubicación y contacto
+
 **Facultad de Ingeniería del Ejército Grl. Div. Manuel N. Savio**  
-Av. Cabildo 15, C1426AAA, Ciudad Autónoma de Buenos Aires, Argentina
-📞 Teléfono: (+54 11) 4779-3300
-📧 e-mail: info@fie.undef.edu.ar
-📧 e-mail: automotores@fie.undef.edu.ar
-📌  [Ver en Google Maps](https://www.google.com/maps?q=Av.+Cabildo+15,+C1426+Ciudad+Aut%C3%B3noma+de+Buenos+Aires,+Argentina)
+Av. Cabildo 15, C1426 Cdad. Autónoma de Buenos Aires, Argentina  
+📞 Teléfono: (+54 11) 4779-3300  
+📧 Email: info@fie.undef.edu.ar  
+📌 [Ver en Google Maps](https://www.google.com/maps?q=Av.+Cabildo+15,+C1426+Ciudad+Aut%C3%B3noma+de+Buenos+Aires,+Argentina)
+
+---
+
 
 
 

@@ -13,9 +13,25 @@
 - Automatización y control: programación de PLC, lógica ladder, pseudocódigo aplicado a bancos de ensayo.
 - Documentación técnica profesional: manuales, esquemas, tablas y recursos didácticos adaptados a distintos niveles.
   
-🤝 Vinculación académica:
+🤝 Vinculación Académica:
 El laboratorio colabora activamente con docentes, investigadores y estudiantes, promoviendo la transferencia de conocimiento entre áreas curriculares 
 y fomentando el pensamiento crítico, el rigor técnico y la excelencia didáctica.
+
+📍 Ubicación y contacto:
+Facultad de Ingeniería del Ejército Argentino
+Av. Cabildo 15, C1426AAA, Ciudad Autónoma de Buenos Aires, Argentina
+📞 Teléfono: (+54 11) 4779-3300
+📧 e-mail: info@fie.undef.edu.ar
+📧 e-mail: automotores@fie.undef.edu.ar
+📌  [Ver en Google Maps](https://www.google.com/maps?q=Av.+Cabildo+15,+C1426+Ciudad+Aut%C3%B3noma+de+Buenos+Aires,+Argentina)
+
+
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 

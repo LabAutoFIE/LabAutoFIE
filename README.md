@@ -33,7 +33,6 @@ Av. Cabildo 15, C1426AAA Ciudad Autónoma de Buenos Aires, Argentina
 📧 e-mail: automotores@fie.undef.edu.ar
 🌐 Sitio web: www.fie.undef.edu.ar
 📌 [Ver en Google Maps](https://www.google.com/maps?q=Av.+Cabildo+15,+C1426+Ciudad+Aut%C3%B3noma+de+Buenos+Aires,+Argentina)
-💬 WhatsApp:  
 <a href="https://web.whatsapp.com/send?phone=5491138569689&text=Hola%2C+quisiera+consultar+sobre+el+Laboratorio+de+Automotores." target="_blank">
   <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" width="24" height="24" style="vertical-align:middle;"/> Enviar mensaje
 </a>

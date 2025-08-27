@@ -27,32 +27,12 @@ y fomentando el pensamiento crítico, el rigor técnico y la excelencia académi
   
 ## 📍 Ubicación y contacto:
 **Facultad de Ingeniería del Ejército "Grl. Div. Manuel N. Savio"**  
-<img src="https://img.icons8.com/color/48/marker--v1.png" alt="Dirección" width="24" height="24" style="vertical-align:middle;"/> Av. Cabildo 15, C1426AAA Ciudad Autónoma de Buenos Aires, Argentina   
+<img src="https://img.icons8.com/color/48/marker--v1.png" alt="Dirección" width="20" height="20" style="vertical-align:middle;"/> Av. Cabildo 15, C1426AAA Ciudad Autónoma de Buenos Aires, Argentina   
 📞 Teléfono: (+54 11) 4779-3300  
-📧 e-mail Institucional: [info@fie.undef.edu.ar](mailto:info@fie.undef.edu.ar)  
+<img src="https://img.icons8.com/color/48/new-post.png" alt="Email" width="24" height="24" style="vertical-align:middle;"/> Email institucional: [info@fie.undef.edu.ar](mailto:info@fie.undef.edu.ar)  
 📧 e-mail del Laboratorio: [automotores@fie.undef.edu.ar](mailto:automotores@fie.undef.edu.ar)  
 🌐 Sitio web: [www.fie.undef.edu.ar](https://www.fie.undef.edu.ar)  
 📌 [Google Maps](https://www.google.com/maps?q=Av.+Cabildo+15,+C1426+Ciudad+Aut%C3%B3noma+de+Buenos+Aires,+Argentina)  
 <a href="https://web.whatsapp.com/send?phone=5491138569689&text=Hola%2C+quisiera+consultar+sobre+el+Laboratorio+de+Automotores." target="_blank">
   <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" width="24" height="24" style="vertical-align:middle;"/> Enviar mensaje FIE
 </a>  
-  
-  
-  
-  
-  
-  
-  
-
-  
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

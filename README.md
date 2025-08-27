@@ -1,10 +1,10 @@
-## Laboratorio de Automotores FIE 👋
+# Laboratorio de Automotores FIE 👋
 
 <div align="center">
   <img width="360" height="360" alt="AutoSolo3_circle" src="https://github.com/user-attachments/assets/38627ca5-195e-4675-b25b-05d910e9b540" />
 </div>
 
-# 🛠️ Laboratorio de Automotores – FIE:
+## 🛠️ Laboratorio de Automotores – FIE:
 
 El **Laboratorio de Automotores** forma parte de la **Facultad de Ingeniería del Ejército Argentino (FIE)** y constituye un espacio académico y
 técnico dedicado a la formación integral en ingeniería mecánica, automotriz y afines. Aquí se dictan asignaturas clave en carreras de grado, se 
@@ -33,7 +33,10 @@ Av. Cabildo 15, C1426AAA Ciudad Autónoma de Buenos Aires, Argentina
 📧 e-mail: automotores@fie.undef.edu.ar
 🌐 Sitio web: www.fie.undef.edu.ar
 📌 [Ver en Google Maps](https://www.google.com/maps?q=Av.+Cabildo+15,+C1426+Ciudad+Aut%C3%B3noma+de+Buenos+Aires,+Argentina)
-💬 WhatsApp: Enviar mensaje
+💬 WhatsApp:  
+<a href="https://web.whatsapp.com/send?phone=5491138569689&text=Hola%2C+quisiera+consultar+sobre+el+Laboratorio+de+Automotores." target="_blank">
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" width="24" height="24" style="vertical-align:middle;"/> Enviar mensaje
+</a>
 ---
 
 

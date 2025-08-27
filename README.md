@@ -2,8 +2,6 @@
 
 <img width="1694" height="413" alt="AutoSolo" src="https://github.com/user-attachments/assets/7cf4abde-9678-4f21-8741-5404d0156a8b" />
 
-**LabAutoFIE/LabAutoFIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🎯 Propósito:
 - Fortalecer la enseñanza de la ingeniería mediante experiencias prácticas, simulaciones y análisis de sistemas reales.
 - Integrar teoría y práctica en el estudio de procesos termodinámicos, cinemáticos y dinámicos de vehículos y motores.

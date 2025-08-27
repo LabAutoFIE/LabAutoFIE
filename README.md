@@ -24,11 +24,11 @@ desarrollan prácticas experimentales, y se promueve la investigación aplicada 
 ## 🤝 Vinculación Académica:
 El laboratorio colabora activamente con docentes, investigadores y estudiantes, promoviendo la transferencia de conocimiento entre áreas curriculares 
 y fomentando el pensamiento crítico, el rigor técnico y la excelencia académica y didáctica.
-
+  
 ## 📍 Ubicación y contacto:
 **Facultad de Ingeniería del Ejército "Grl. Div. Manuel N. Savio"**  
 Av. Cabildo 15, C1426AAA Ciudad Autónoma de Buenos Aires, Argentina  
-📞 Teléfono: (+54 11) 4779-3300
+📞 Teléfono: (+54 11) 4779-3300  
 📧 e-mail Institucional: [info@fie.undef.edu.ar](mailto:info@fie.undef.edu.ar)  
 📧 e-mail del Laboratorio: [automotores@fie.undef.edu.ar](mailto:automotores@fie.undef.edu.ar)  
 🌐 Sitio web: [www.fie.undef.edu.ar](https://www.fie.undef.edu.ar)  
@@ -37,17 +37,15 @@ Av. Cabildo 15, C1426AAA Ciudad Autónoma de Buenos Aires, Argentina
 <a href="https://web.whatsapp.com/send?phone=5491138569689&text=Hola%2C+quisiera+consultar+sobre+el+Laboratorio+de+Automotores." target="_blank">
   <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" width="24" height="24" style="vertical-align:middle;"/> Enviar mensaje FIE
 </a>  
----  
+  
+  
+  
+  
+  
+  
+  
 
-
-
-
-
-
-
-
-
-
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

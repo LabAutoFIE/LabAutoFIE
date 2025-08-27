@@ -1,8 +1,8 @@
 ## Laboratorio de Automotores FIE 👋
 
-<img width="1694" height="413" alt="AutoSolo" src="https://github.com/user-attachments/assets/7cf4abde-9678-4f21-8741-5404d0156a8b" />
-<img width="360" height="360" alt="AutoSolo3_circle" src="https://github.com/user-attachments/assets/38627ca5-195e-4675-b25b-05d910e9b540" />
-
+<div align="center">
+  <img width="360" height="360" alt="AutoSolo3_circle" src="https://github.com/user-attachments/assets/38627ca5-195e-4675-b25b-05d910e9b540" />
+</div>
 
 # 🛠️ Laboratorio de Automotores – FIE
 

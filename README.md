@@ -26,8 +26,8 @@ El laboratorio colabora activamente con docentes, investigadores y estudiantes, 
 y fomentando el pensamiento crítico, el rigor técnico y la excelencia académica y didáctica.
 
 ## 📍 Ubicación y contacto:
-**Facultad de Ingeniería del Ejército "Grl. Div. Manuel N. Savio"**  
-Av. Cabildo 15, C1426AAA Ciudad Autónoma de Buenos Aires, Argentina  
+**Facultad de Ingeniería del Ejército "Grl. Div. Manuel N. Savio"**
+Av. Cabildo 15, C1426AAA Ciudad Autónoma de Buenos Aires, Argentina
 📞 Teléfono: (+54 11) 4779-3300
 📧 e-mail: info@fie.undef.edu.ar
 📧 e-mail: automotores@fie.undef.edu.ar
